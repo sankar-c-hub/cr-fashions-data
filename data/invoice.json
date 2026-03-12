@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": 1773289345896,
+    "number": "INV-2026-03-0002",
+    "date": "2026-03-12",
+    "due": "2026-03-27",
+    "status": "Unpaid",
+    "customer": {
+      "name": "sam",
+      "phone": "9676077235",
+      "address": "huvyufvghjb,gftdrxscdftvg,ojihuygftrftvy."
+    },
+    "notes": "",
+    "items": [
+      {
+        "desc": "Copper winding wire 18 gauge",
+        "qty": 1,
+        "price": 2000,
+        "gst": 0
+      }
+    ],
+    "subtotal": 2000,
+    "gst": 0,
+    "total": 2000
+  }
+]
