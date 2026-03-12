@@ -1,26 +1,2 @@
 [
-  {
-    "id": 1773298973512,
-    "number": "NRW-20260312-123230",
-    "date": "2026-03-12",
-    "due": "2026-03-27",
-    "status": "Unpaid",
-    "customer": {
-      "name": "sankar",
-      "phone": "9676077235",
-      "address": "huvyufvghjb,gftdrxscdftvg,ojihuygftrftvy."
-    },
-    "notes": "",
-    "items": [
-      {
-        "desc": "Aluminium winding wire",
-        "qty": 1,
-        "price": 2000,
-        "gst": 0
-      }
-    ],
-    "subtotal": 2000,
-    "gst": 0,
-    "total": 2000
-  }
 ]
