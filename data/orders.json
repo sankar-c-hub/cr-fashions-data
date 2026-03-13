@@ -173,7 +173,7 @@
   {
     "id": 20,
     "toName": "Sindhu",
-    "toAddress": "*Name : Sindhu Kadiyala \nAddress :- 58836, Flat 101, Bhavya Jaya Residency, WhiteFields, Kondapur\nLandmark :-  near botanical gardens \nCity :- Hyderabad \nDistrict :- Ranga reddy\nState :- Telangana \nPincode :- 500084\nPhone :-9949451712",
+    "toAddress": "58836, Flat 101, Bhavya Jaya Residency, WhiteFields, Kondapur\nLandmark :-  near botanical gardens \nCity:- Hyderabad \nDistrict :- Ranga reddy\nState: Telangana \nPincode: 500084\nPhone: 9949451712",
     "fromName": "CR FASHIONS",
     "fromPhone": "7032208265",
     "date": "03-13-2026",
