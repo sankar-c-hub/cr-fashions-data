@@ -1,2 +1,26 @@
 [
+  {
+    "id": 1773375809231,
+    "number": "NRW-2026-0001",
+    "date": "2026-03-13",
+    "due": "",
+    "status": "Unpaid",
+    "customer": {
+      "name": "sam",
+      "phone": "9676077235",
+      "address": "#401, Pride Homes 24-7-114, 3rd Road, MSR Nagar, Magunta Layout Nellore 524003 7097395555"
+    },
+    "notes": "",
+    "items": [
+      {
+        "desc": "Motor Rewinding",
+        "qty": 1,
+        "price": 5000,
+        "gst": 0
+      }
+    ],
+    "subtotal": 5000,
+    "gst": 0,
+    "total": 5000
+  }
 ]
