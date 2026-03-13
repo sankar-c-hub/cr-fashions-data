@@ -1,2 +1,27 @@
 [
+  {
+    "id": 1773416338145,
+    "number": "NRW-2026-0001",
+    "date": "2026-03-13",
+    "due": "",
+    "status": "Unpaid",
+    "customer": {
+      "name": "sam",
+      "phone": "9676077235",
+      "address": "huvyufvghjb,gftdrxscdftvg,ojihuygftrftvy."
+    },
+    "notes": "",
+    "paidAmount": 0,
+    "items": [
+      {
+        "desc": "Capacitor",
+        "qty": 1,
+        "price": 0,
+        "gst": 18
+      }
+    ],
+    "subtotal": 0,
+    "gst": 0,
+    "total": 0
+  }
 ]
