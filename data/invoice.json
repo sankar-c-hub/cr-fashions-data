@@ -1,27 +1,2 @@
 [
-  {
-    "id": 1773417341155,
-    "number": "NRW-2026-0002",
-    "date": "2026-03-13",
-    "due": "",
-    "status": "Unpaid",
-    "customer": {
-      "name": "naveen kumar reddy",
-      "phone": "9642291189",
-      "address": "vglkjhgfxdxghcjkjhl,opiuyftdrsdzx,p[oiuytdgxfgu"
-    },
-    "notes": "",
-    "paidAmount": 0,
-    "items": [
-      {
-        "desc": "statret",
-        "qty": 1,
-        "price": 500,
-        "gst": 0
-      }
-    ],
-    "subtotal": 500,
-    "gst": 0,
-    "total": 500
-  }
 ]
