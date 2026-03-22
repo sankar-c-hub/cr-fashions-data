@@ -4,14 +4,14 @@
     "number": "NRW-2026-0001",
     "date": "2026-01-16",
     "due": "",
-    "status": "Unpaid",
+    "status": "Paid",
     "customer": {
       "name": "sankar reddy",
       "phone": "9676077235",
       "address": "Peddapappuru,\nAnantapur District,\nAndhra Pradesh – 515445"
     },
     "notes": "",
-    "paidAmount": 0,
+    "paidAmount": 6360,
     "items": [
       {
         "desc": "motor",
