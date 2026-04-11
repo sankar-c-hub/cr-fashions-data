@@ -2599,5 +2599,14 @@
     "fromPhone": "7032208265",
     "date": "04-11-2026",
     "time": "6:21:34 am"
+  },
+  {
+    "id": 290,
+    "toName": "Manasa",
+    "toAddress": "To\nCustomer Name: manasa mayaluri\nH no : flat no 405, BLOCK - B\nStreet : NR INFINITY, Beramguda, RC PURAM, Hitension lane\nCity: Hyderabad \nDistrict: ranga reddy\nState : Telangana\nPincode: 502032\nPhone number: 8106256447",
+    "fromName": "CR FASHIONS",
+    "fromPhone": "7032208265",
+    "date": "04-11-2026",
+    "time": "6:21:49 am"
   }
 ]
