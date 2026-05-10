@@ -5992,5 +5992,14 @@
     "fromPhone": "7032208265",
     "date": "05-10-2026",
     "time": "5:02:09 pm"
+  },
+  {
+    "id": 667,
+    "toName": "Chandra",
+    "toAddress": "Shipping address\nName-Chandra\nNo.40 1st floor 8th main, 18th A cross muthyalamma nagar bandappa garden Bangalore 560054\n8147372309",
+    "fromName": "CR FASHIONS",
+    "fromPhone": "7032208265",
+    "date": "05-10-2026",
+    "time": "5:02:26 pm"
   }
 ]
