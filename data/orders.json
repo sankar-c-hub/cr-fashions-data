@@ -709,5 +709,14 @@
     "fromPhone": "7032208265",
     "date": "06-24-2026",
     "time": "7:34:32 am"
+  },
+  {
+    "id": 80,
+    "toName": "Praveena",
+    "toAddress": "To\nCustomer Name: Thota Pavana \nH no: 10-2-277, flat no 101, second floor, Alpine Manor apartments\nStreet: Street no 5, West Marredpally, Secunderabad \nLand mark : behind reliance digital \nCity : Hyderabad \nDistrict : Hyderabad \nState : Telangana \nPincode :500026\nPhone number : 9989182423",
+    "fromName": "CR FASHIONS",
+    "fromPhone": "7032208265",
+    "date": "06-24-2026",
+    "time": "7:34:45 am"
   }
 ]
